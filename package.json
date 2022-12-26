@@ -1,0 +1,22 @@
+{
+  "name": "algos",
+  "version": "0.0.1",
+  "description": "Repo for variuos algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pkvsinha/algos.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pkvsinha/algos/issues"
+  },
+  "homepage": "https://github.com/pkvsinha/algos#readme",
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
+}
