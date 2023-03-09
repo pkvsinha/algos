@@ -1,6 +1,6 @@
 import util from '../util';
 
-export function selection(array) {
+export function selection(array: any[]) {
   const N = array.length;
   for (let i = 0; i < N - 1; i++) {
     let min = i;
